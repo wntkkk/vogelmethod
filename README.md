@@ -1,0 +1,2 @@
+# vogelmethod
+Vogel's method
